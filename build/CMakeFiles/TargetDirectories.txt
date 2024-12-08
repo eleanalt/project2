@@ -1,0 +1,3 @@
+/home/eleanalt/project/build/CMakeFiles/opt_triangulation.dir
+/home/eleanalt/project/build/CMakeFiles/edit_cache.dir
+/home/eleanalt/project/build/CMakeFiles/rebuild_cache.dir
